@@ -1,1 +1,1 @@
-# clg
+# deep-gli.clg
